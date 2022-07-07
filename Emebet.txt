@@ -1,1 +1,2 @@
 my data
+this is third data to be clone
